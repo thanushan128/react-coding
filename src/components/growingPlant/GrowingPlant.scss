@@ -1,0 +1,18 @@
+$primaryColor : rgb(59, 254, 0);
+
+.plant {
+    color: $primaryColor;
+    text-shadow: 1;
+    font-size: 24px;
+    font-weight: bold;
+
+    .logo{
+        font-size: medium;
+        color: crimson;
+    }
+
+    .text{
+        color: blueviolet;
+        font-size: large;
+    }
+}
